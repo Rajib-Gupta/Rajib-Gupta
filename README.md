@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rajib-Gupta
 - 👀 I’m interested in Web development and software development
 - 🌱 I’m currently learning AngularJs
-- 📫 Contact me via what's app- 6291037778
+- 📫 Contact me via mail.(rajib.gupta.web@gmail.com)
 
 <!---
 Rajib-Gupta/Rajib-Gupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
