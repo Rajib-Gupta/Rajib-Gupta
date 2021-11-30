@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rajib-Gupta
 - 👀 I’m interested in Web development and software development
-- 🌱 I’m currently working on Angular and nodeJs
+- 🌱 I’m currently working on Angular and NestJs
 - 📫 Contact me via mail.(rajib.gupta.web@gmail.com)
 
 <!---
