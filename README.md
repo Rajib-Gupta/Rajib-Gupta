@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other devloper
-- 🥅 2022 Goals: Learn more languages and Frame work
+- 🥅 2023 Goals: Learn more in Javascript and Frame work
 - ⚡ Fun fact: I love Moutains
 
 ### Connect with me:
