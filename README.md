@@ -4,7 +4,7 @@
 - 👋 Hi, I’m @Rajib-Gupta
 - 👀 I’m interested in Web development and software development
 - 🌱 I’m currently working on React and Redux
-- 📫 Contact me via mail.(rajib.gupta.web@gmail.com)
+- 📫 Contact me via mail.(rajib.gupta.web@gmail.com || rajib.ncp@gmail.com)
 
 <!---
 Rajib-Gupta/Rajib-Gupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
