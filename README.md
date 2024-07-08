@@ -14,9 +14,9 @@ You can click the Preview link to take a look at your changes.
 [![Twitter Follow](https://img.shields.io/twitter/follow/Rajibgupta6?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Rajibgupta6)
 
 
-- 🌱 I’m currently learning Python fastAPI
+- 🌱 I’m currently learning App Development
 - 👯 I’m looking to collaborate with other devloper
-- 🥅 2023 Goals: Learn more in Javascript and Frame work
+- 🥅 2024 Goals: Learn more in Javascript and Frame work
 - ⚡ Fun fact: I love Moutains
 
 ### Connect with me:
