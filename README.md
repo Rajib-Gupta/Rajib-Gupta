@@ -1,5 +1,5 @@
 
-## I'm a Frontend Developer, Travel lover 🤣 !!
+## I'm a Fullstack Developer, Travel lover 🤣 !!
 
 - 👋 Hi, I’m @Rajib-Gupta
 - 👀 I’m interested in Web development and software development
