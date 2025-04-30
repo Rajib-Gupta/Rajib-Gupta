@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Connect with me:
 
-[<img align="left" alt="Rajib_Gupta | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/rajib-gupta-620206190]
+[<img align="left" alt="Rajib_Gupta | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][(https://www.linkedin.com/in/rajib-gupta/)]
 
 <br />
 
