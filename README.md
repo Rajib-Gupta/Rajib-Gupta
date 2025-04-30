@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @Rajib-Gupta
 - 👀 I’m interested in Web development and software development
-- 🌱 I’m currently working on React and Redux
+- 🌱 I’m currently working on Full Stack Development.
 - 📫 Contact me via mail.(rajibgupta003@gmail.com)
 
 <!---
