@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning GEN-AI
 - 👯 I’m looking to collaborate with other devloper
-- 🥅 2024 Goals: Learn more in Javascript and Frame work
+- 🥅 2025 Goals: Learn GEN-AI
 - ⚡ Fun fact: I love Moutains
 
 ### Connect with me:
