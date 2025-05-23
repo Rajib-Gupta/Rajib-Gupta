@@ -24,9 +24,7 @@ You can click the Preview link to take a look at your changes.
 📫 Let's Connect
 📧 Email: rajibgupta003@gmail.com
 
-💼 LinkedIn
-
-🐦
+💼 LinkedIn https://www.linkedin.com/in/rajib-gupta/
 
 <!--- Rajib-Gupta/Rajib-Gupta is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile. You can click the Preview link to check it out! --->
 
