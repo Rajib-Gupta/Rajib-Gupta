@@ -20,11 +20,15 @@ Rajib-Gupta/Rajib-Gupta is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Rajibgupta6?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Rajibgupta6)
 
-### Connect with me:
+📫 Let's Connect
+📧 Email: rajibgupta003@gmail.com
 
-[<img align="left" alt="Rajib_Gupta | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][(https://www.linkedin.com/in/rajib-gupta/)]
+💼 LinkedIn
+
+🐦
+
+<!--- Rajib-Gupta/Rajib-Gupta is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile. You can click the Preview link to check it out! --->
 
 <br />
 
