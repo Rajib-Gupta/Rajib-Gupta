@@ -7,11 +7,11 @@ Hi there! I'm Rajib Gupta — a passionate Full-Stack Developer who loves buildi
 
 💻 I’m passionate about Web Development and Software Engineering
 
-🌱 Currently diving deep into Full-Stack Development and Generative AI
+🌱 Currently diving deep into Generative AI
 
 🤝 Open to collaboration with other developers and tech enthusiasts
 
-🎯 2025 Goal: Master Generative AI
+🎯 2026 Goal: Master Generative AI
 
 ⚡ Fun Fact: I’m obsessed with mountains — hiking is my therapy!
 
