@@ -6,7 +6,7 @@
 *Building production-grade systems · Targeting SDE II roles at product companies*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajib-gupta/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/rajibgupta003)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)]((https://leetcode.com/u/rajib001/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajibgupta003@gmail.com)
 [![Location](https://img.shields.io/badge/Kolkata,_India-Open_to_Relocate-2ea44f?style=for-the-badge)](https://github.com/Rajib-Gupta)
 
