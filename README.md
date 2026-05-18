@@ -97,9 +97,9 @@ Enterprise transit management system for a North American client.
 
 ## Open Source
 
-| Project | Contribution | Status |
-|---|---|---|
-| [refinedev/refine](https://github.com/refinedev/refine) ⭐ 30k+ | zh-CN locale coverage for admin UI components | 🔄 In Progress |
+| Project | Contribution | Type | Status |
+|---|---|---|---|
+| [payloadcms/payload](https://github.com/payloadcms/payload) ⭐ 42.5k | [fix: preserve published main document when saving draft](https://github.com/payloadcms/payload/pull/16643) | Bug Fix | 🔄 Open |
 
 ---
 
