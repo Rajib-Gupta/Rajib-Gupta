@@ -16,7 +16,7 @@
 
 ## About Me
 
-Full Stack Engineer with **4.5+ years** building production systems in **React, Node.js, and TypeScript**.
+Full Stack Engineer with **5 years** building production systems in **React, Node.js, and TypeScript**.
 
 Most recently I architected backend services for a **real-time credit data platform** integrated with Equifax and Experian — cutting API response times by **~25%** through query tuning, connection pooling, and response caching.
 
@@ -115,13 +115,27 @@ Timeline        September 2026
 
 ---
 
-## GitHub Stats
+## GitHub & LeetCode Stats
 
 <div align="center">
 
-![Rajib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajib-Gupta&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+<!-- GitHub Stats -->
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Rajib-Gupta&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
+  alt="Rajib's GitHub Stats"
+/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajib-Gupta&layout=compact&theme=github_dark&hide_border=true)
+<!-- Top Languages -->
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajib-Gupta&layout=compact&theme=github_dark&hide_border=true"
+  alt="Rajib's Top Languages"
+/>
+
+<!-- LeetCode Stats -->
+<img
+  src="https://leetcard.jacoblin.cool/rajib001?theme=dark&font=Baloo%202&ext=heatmap"
+  alt="Rajib's LeetCode Stats"
+/>
 
 </div>
 
