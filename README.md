@@ -115,27 +115,32 @@ Timeline        September 2026
 
 ---
 
-## GitHub & LeetCode Stats
+## GitHub & LeetCode
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Rajib-Gupta&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
-  alt="Rajib's GitHub Stats"
-/>
+<a href="https://github.com/Rajib-Gupta">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=Rajib-Gupta&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
+  />
+</a>
 
-<!-- Top Languages -->
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajib-Gupta&layout=compact&theme=github_dark&hide_border=true"
-  alt="Rajib's Top Languages"
-/>
+<a href="https://github.com/Rajib-Gupta">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajib-Gupta&layout=compact&theme=github_dark&hide_border=true"
+  />
+</a>
 
-<!-- LeetCode Stats -->
-<img
-  src="https://leetcard.jacoblin.cool/rajib001?theme=dark&font=Baloo%202&ext=heatmap"
-  alt="Rajib's LeetCode Stats"
-/>
+<br/>
+
+<a href="https://leetcode.com/u/rajib001/">
+  <img
+    src="https://leetcard.jacoblin.cool/rajib001?theme=dark&font=Baloo%202&ext=heatmap"
+    alt="Rajib's LeetCode Stats"
+  />
+</a>
 
 </div>
 
