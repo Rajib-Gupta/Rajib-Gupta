@@ -119,6 +119,15 @@ Timeline        September 2026
 
 <div align="center">
 
+![Rajib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajib-Gupta&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajib-Gupta&layout=compact&theme=github_dark&hide_border=true)
+
+</div>
+
+
+<div align="center">
+
 <a href="https://github.com/Rajib-Gupta">
   <img
     height="180"
