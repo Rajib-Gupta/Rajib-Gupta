@@ -122,14 +122,7 @@ Timeline        September 2026
 <a href="https://github.com/Rajib-Gupta">
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=Rajib-Gupta&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
-  />
-</a>
-
-<a href="https://github.com/Rajib-Gupta">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajib-Gupta&layout=compact&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajib-Gupta&layout=compact&theme=github_dark&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajib-Gupta&layout=compact&theme=github_dark&hide_border=true)"
   />
 </a>
 
