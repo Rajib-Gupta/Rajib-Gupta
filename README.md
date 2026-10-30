@@ -24,7 +24,6 @@ I own full product cycles: REST API design, database schema (MySQL + MongoDB), J
 
 Currently focused on:
 - 📚 Deep diving into **DSA and System Design** — targeting SDE II at product companies
-- 🔧 **Open source contributions** — actively contributing to [Payload](https://github.com/payloadcms/payload) (42.5k+ ⭐)
 - 🏗️ Building side projects that solve real problems
 
 ---
